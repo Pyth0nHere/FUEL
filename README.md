@@ -1,7 +1,7 @@
 # *🦄 FUEL*
 FUEL is a malware written mainly in Python and a bit in C++.</br>
 The names comes by combining the name of all the files: Format-22, Unusable-2, Eradication-Typhoon, Lonely-12.</br>
-All of this names are inspired from figther jets, here are all of them:
+All of these names are inspired from figther jets, here are all of them:
 ```
 Lockheed Martin-Boeing F-22
 Lockheed U-2

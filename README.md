@@ -12,7 +12,7 @@ Lockheed YF-12
 NOTE! For important reasons, FUEL is not configured to work as a ``.exe`` which means it can't be used by anyone, this can tho be done by anybody with a very little bit of Python knowledge.
 
 # **☣️ Descriptions**
-Here's a breaf description of every FUEL part.
+Here's a brief description of every FUEL part.
 
 ## **⛔ Format-22**
 As said before, FUEL is divided in 4 parts, each one serve e very important purpose.</br>
@@ -27,9 +27,9 @@ Unusable-2 is a ``key logger`` which means it is a stealth malware that stays in
 The way it works is by taking every key the user inputs and adding it to a string, and then after a certain time (that you can modify ``self.time_interval``) it sends an email to you.</br>
 For that you need to insert your ``email`` and ``password`` inside the keylogger object creation.
 
-Unusable-22 gets created once ``Format-22`` gets opened and it gets opened every time Windows starts.
+Unusable-2 gets created once ``Format-22`` gets opened and it gets opened every time Windows starts.
 
-NOTE! Unusable-22 is the ``ONLY`` part of FUEL that gets detected by Windows.
+NOTE! Unusable-2 is the ``ONLY`` part of FUEL that gets detected by Windows.
 
 ## **⛔ Eradicator-Typhoon**
 Eradicator-Typhonn, is used for causing a ``BSOD`` (Blue Screen Of Death) and delete every file on the Desktop.</br>
